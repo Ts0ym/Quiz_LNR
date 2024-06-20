@@ -19,7 +19,7 @@
 ### Клонирование репозитория
 Клонируйте этот репозиторий на свой компьютер с помощью команды:
 ```sh
-git clone https://github.com/your-username/Quiz_LNR.git
+git clone https://github.com/Ts0ym/Quiz_LNR.git
 ```
 
 ## Открытие в Unity
@@ -29,7 +29,7 @@ git clone https://github.com/your-username/Quiz_LNR.git
 
 ## Запуск билда на Windows без установки Unity
 1. Перейдите в папку Builds
-2. Запустите файл Quiz_rounded2.exe
+2. Запустите файл VDNH_Quiz_LNR.exe
 
 ## Использование
 1. Запустите приложение на вашем устройстве.
